@@ -1,0 +1,56 @@
+.btn-blue {
+	background-color: #6DA576;
+	padding: 15px 20px ;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: roboto, sans-serif;
+	font-size: 12px;
+}
+
+.btn-white {
+	background-color: white;
+	padding: 15px 20px ;
+	border-radius: 4px;
+	color: lightgrey;
+	font-weight: lighter;
+	font-family: roboto, sans-serif;
+	font-size: 12px;
+}
+
+.btn-From {
+	background-color: white;
+	padding: 15px 20px ;
+	border-radius: 4px;
+	color: lightgrey;
+	font-weight: lighter;
+	font-family: roboto, sans-serif;
+	font-size: 12px;
+}
+
+.btn-To {
+	background-color: white;
+	padding: 15px 20px ;
+	border-radius: 4px;
+	color: lightgrey;
+	font-weight: lighter;
+	font-family: roboto, sans-serif;
+	font-size: 12px;
+}
+
+.btn-blue:hover {
+	background-color: #a7d99e;
+	color: ; #adb5ac
+}
+
+.btn-white:hover {
+	color: black;
+}
+
+.btn-From:hover {
+	color: black;
+}
+
+.btn-To:hover {
+	color: black;
+}
